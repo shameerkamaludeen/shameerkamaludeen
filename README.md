@@ -16,7 +16,7 @@ I am **shameer Kamaludeen**, frontend and web developer from Kerala, India :indi
 - Freelance works
 
 ### Connect with me:
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="28px" style="padding-right:10px;"/>](https://twitter.com/ShameerKamalud1)&nbsp;&nbsp;[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="32px" style="padding-right:10px;" />](https://www.linkedin.com/in/shameer-kamaludeen-3673ba73/)[<img src="./favicon-32x32.png" width="35px" style="padding-right:10px;" tittle="Frontend Mentor"/>](https://www.frontendmentor.io/profile/shameerkamaludeen)<a href="mailto:shameer.plsn@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="32px" style="padding-right:10px;" /><br>
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="28px" style="padding-right:10px;"/>](https://twitter.com/ShameerKamalud1)&nbsp;&nbsp;[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="32px" style="padding-right:10px;" />](https://www.linkedin.com/in/shameer-kamaludeen-3673ba73/)[<img src="./favicon-32x32.png" width="35px" style="padding-right:10px;" tittle="Frontend Mentor"/>](https://www.frontendmentor.io/profile/shameerkamaludeen)<a href="mailto:shameer.plsn@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="32px" style="padding-right:10px;" /></a><br>
 
 <details>
   <summary>Practice projects</summary><br>
