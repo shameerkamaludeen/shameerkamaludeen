@@ -105,11 +105,6 @@ I am **shameer Kamaludeen**, frontend and web developer from Kerala, India :indi
         <td><img alt="Difficulty" src="https://img.shields.io/badge/difficulty-junior-lightgreen" /></td>
       </tr>
       <tr>
-        <td><a href="https://shameerkamaludeen.github.io/nicepage-challenges/curb-sugar-and-carb-cravings/"><b>Nice page template design</b></a></td>
-        <td><img alt="Date" src="https://img.shields.io/badge/date-2022--02--08-blue" /></td>
-        <td><img alt="Difficulty" src="https://img.shields.io/badge/difficulty-newbie-cyan" /></td>
-      </tr>
-      <tr>
         <td><a href="https://github.com/shameerkamaludeen/codier-challenges"><b>Codier challenges</b></a></td>
         <td><img alt="Date" src="https://img.shields.io/badge/date-2022--02--05-blue" /></td>
         <td><img alt="Difficulty" src="https://img.shields.io/badge/difficulty-newbie-cyan" /></td>
