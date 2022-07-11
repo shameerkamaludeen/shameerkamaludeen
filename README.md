@@ -30,6 +30,11 @@ I am **shameer Kamaludeen**, frontend and web developer from Kerala, India :indi
     </thead>
     <tbody>
       <tr>
+        <td><a href="https://shameerkamaludeen.github.io/crowdfunding-product-page/"><b>Social media dashboard with theme switcher</b></a></td>
+        <td><img alt="Date" src="https://img.shields.io/badge/date-2022--07--11-blue" /></td>
+        <td><img alt="Difficulty" src="https://img.shields.io/badge/difficulty-junior-lightgreen" /></td>
+      </tr>
+      <tr>
         <td><a href="https://shameerkamaludeen.github.io/canvas-furniture/"><b>SemiColonWeb - Canvas Furniture Demo</b></a></td>
         <td><img alt="Date" src="https://img.shields.io/badge/date-2022--07--02-blue" /></td>
         <td><img alt="Difficulty" src="https://img.shields.io/badge/difficulty-Advanced-forestgreen" /></td>
