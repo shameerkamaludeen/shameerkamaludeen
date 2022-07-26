@@ -30,6 +30,11 @@ I am **shameer Kamaludeen**, frontend and web developer from Kerala, India :indi
     </thead>
     <tbody>
       <tr>
+        <td><a href="https://shameerkamaludeen.github.io/interactive-rating-component/"><b>Interactive rating component</b></a></td>
+        <td><img alt="Date" src="https://img.shields.io/badge/date-2022--07--26-blue" /></td>
+        <td><img alt="Difficulty" src="https://img.shields.io/badge/difficulty-newbie-cyan" /></td>
+      </tr>
+      <tr>
         <td><a href="https://shameerkamaludeen.github.io/social-media-dashboard-with-theme-switcher"><b>Social media dashboard with theme switcher</b></a></td>
         <td><img alt="Date" src="https://img.shields.io/badge/date-2022--07--11-blue" /></td>
         <td><img alt="Difficulty" src="https://img.shields.io/badge/difficulty-junior-lightgreen" /></td>
