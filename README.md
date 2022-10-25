@@ -4,19 +4,13 @@
 
 Welcome to my profile!
 
-I am **shameer Kamaludeen**, frontend and web developer from Kerala, India :india:. I have 7+ years of professional coding experience, currently focusing on frontend and web development by following [roadmap.sh](https://github.com/kamranahmedse/developer-roadmap) frontend roadmap. You can send me direct message on <img tittle="Shameer Kamaludeen Twitter profile" src="https://camo.githubusercontent.com/4a42c13938570082893d5b6b2c9e76529a5ac4c238c7bac2e98ee842d6503bed/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f747769747465722d362e737667" width="25px"/>[Twitter](https://twitter.com/ShameerKamalud1) for instant response.
+I am **shameer Kamaludeen**, frontend and web developer from Kerala, India :india:. I have 7+ years of professional coding experience, currently focusing on frontend and web development by following [roadmap.sh](https://github.com/kamranahmedse/developer-roadmap) frontend roadmap.
 
 ### Currently working on:
 [<img align="left" tittle="HTML5" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />](https://developer.mozilla.org/en-US/docs/Web/HTML)[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" tittle="CSS3" />](https://developer.mozilla.org/en-US/docs/Web/CSS)[<img align="left" tittle="JavaScript" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" tittle="Visual Studio Code"/>](https://code.visualstudio.com/)[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](https://git-scm.com/)[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" tittle="GitHub" />](http://github.com/)[<img align="left" alt="Sass" width="26px" src="https://camo.githubusercontent.com/26901b819fb10ef4e2c652aa40e24775247664d84a7597bebb66898a24dddedd/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f736173732f736173732d6f726967696e616c2e737667" style="padding-right:10px;" tittle="Sass" />](https://sass-lang.com/)[<img align="left" alt="jQuery" width="26px" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/jquery-original.svg" style="padding-right:10px;" tittle="jQuery" />](https://jquery.com/)[<img align="left" alt="NPM" width="26px" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/npm.svg" style="padding-right:10px;" tittle="NPM" />](https://www.npmjs.com/)<br>
 
-### I'm open to:
-- Full-time work opportunity
-- Remote work
-- Fixed/Hourly pricing jobs
-- Freelance works
-
 ### Connect with me:
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="28px" style="padding-right:10px;"/>](https://twitter.com/ShameerKamalud1)&nbsp;&nbsp;[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="32px" style="padding-right:10px;" />](https://www.linkedin.com/in/shameer-kamaludeen-3673ba73/)<a href="mailto:shameer.plsn@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="32px" style="padding-right:10px;" /></a><br>
+[<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-upwork-a-global-freelancing-platform-where-professionals-connect-and-collaborate-remotely-logo-shadow-tal-revivo.png" width="28px" style="padding-right:10px;"/>](https://www.upwork.com/freelancers/~01bf2c545547088859)<br>
 
 <details>
   <summary>Practice projects</summary><br>
