@@ -141,4 +141,3 @@ I am **shameer Kamaludeen**, frontend and web developer from Kerala, India :indi
   <summary>Most used languages</summary><br>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shameerkamaludeen&show_icons=true&locale=en&layout=compact" alt="suprabhasupi" /></p>
 </details>
-  
