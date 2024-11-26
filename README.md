@@ -25,7 +25,7 @@ I am **shameer Kamaludeen**, frontend and web developer from Kerala, India :indi
     </thead>
     <tbody>
       <tr>
-        <td><a href="https://shameerkamaludeen.github.io/kindled/"><b>Kindled</b></a></td>
+        <td><a href="https://gleeful-cocada-a9b9bc.netlify.app/"><b>Kindled</b></a></td>
         <td><img alt="Date" src="https://img.shields.io/badge/date-2023--11--04-blue" /></td>
         <td><img alt="Difficulty" src="https://img.shields.io/badge/difficulty-Advanced-forestgreen" /></td>
       </tr>    
